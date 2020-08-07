@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/redmarkets-dice/static/css/main.66cc5596.chunk.css",
+    "main.js": "/redmarkets-dice/static/js/main.61abc5c5.chunk.js",
+    "main.js.map": "/redmarkets-dice/static/js/main.61abc5c5.chunk.js.map",
+    "runtime-main.js": "/redmarkets-dice/static/js/runtime-main.24d6cfb0.js",
+    "runtime-main.js.map": "/redmarkets-dice/static/js/runtime-main.24d6cfb0.js.map",
+    "static/js/2.a89cc2ae.chunk.js": "/redmarkets-dice/static/js/2.a89cc2ae.chunk.js",
+    "static/js/2.a89cc2ae.chunk.js.map": "/redmarkets-dice/static/js/2.a89cc2ae.chunk.js.map",
+    "index.html": "/redmarkets-dice/index.html",
+    "precache-manifest.1d72c667723d4ea1ef2e964d987bfc61.js": "/redmarkets-dice/precache-manifest.1d72c667723d4ea1ef2e964d987bfc61.js",
+    "service-worker.js": "/redmarkets-dice/service-worker.js",
+    "static/css/main.66cc5596.chunk.css.map": "/redmarkets-dice/static/css/main.66cc5596.chunk.css.map",
+    "static/js/2.a89cc2ae.chunk.js.LICENSE.txt": "/redmarkets-dice/static/js/2.a89cc2ae.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/redmarkets-dice/static/media/backgroundimg3.442771e8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24d6cfb0.js",
+    "static/js/2.a89cc2ae.chunk.js",
+    "static/css/main.66cc5596.chunk.css",
+    "static/js/main.61abc5c5.chunk.js"
+  ]
+}
